@@ -13,11 +13,11 @@ How well those variables describe the bike demands
 
 ## Technologies Used
 -Jupyter notebook
--Pandas
--seaborn
--matplotlib
--Sklearn
--statsmodel
+--Pandas
+--seaborn
+--matplotlib
+--Sklearn
+--statsmodel
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
